@@ -3,5 +3,4 @@
 
 Works with API, AUTOMATES EVERYTHING YOU NEED
 
-
-![image](https://github.com/user-attachments/assets/f2886b6a-f41f-4fc6-9afb-9da030ff6009)
+![agent_history](https://github.com/user-attachments/assets/eb9ebd1c-c7ee-40af-92e8-6e9d720d1e3d)
